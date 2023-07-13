@@ -1,4 +1,4 @@
-# gisellegk.github.io
+# kooluxi.github.io
 
 ## Adding a project
 1. add .md content file <projectname>.md in _projects folder
