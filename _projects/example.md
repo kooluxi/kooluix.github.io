@@ -1,7 +1,7 @@
 ---
 title: example
 project: example-project
-published: false
+published: true
 year: 2023
 ---
 
